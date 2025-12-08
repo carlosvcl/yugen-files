@@ -1,5 +1,5 @@
 {
-  "titulo": "YugenYumi <span class='beta-badge'>BETA</span>",
-  "mensagem": "<div style='text-align:left; margin-top:15px'>Estamos focados em <b>performance máxima</b>.<br><br><div class='news-list-item'><span class='material-icons-outlined check-icon' style='font-size:14px'>bolt</span> FPS Boost & Otimizações</div><div class='news-list-item'><span class='material-icons-outlined check-icon' style='font-size:14px'>link</span> Conexão Direta (Mush/Hypixel)</div><div class='news-list-item'><span class='material-icons-outlined check-icon' style='font-size:14px'>checkroom</span> Skins (Em Breve)</div></div>",
-  "cor": "#ffffff"
+  "titulo": "✨ Bem-vindo ao YugenYumi (Beta)",
+  "mensagem": "Estamos desenvolvendo uma nova experiência de PvP focada em <b style='color:white'>performance</b> e <b style='color:white'>estilo</b>.<br><br><div class='news-feature-list'><div class='news-item'>• Atalhos Rápidos de Servidor</div><div class='news-item'>• FPS Boost & Mods PvP Inclusos</div><div class='news-item'>• Cosméticos & Skins (Em Breve)</div></div><div class='news-footer'>Obrigado por testar o nosso launcher!</div>",
+  "cor": "#ff4757"
 }
